@@ -1,0 +1,8 @@
+demangler.ea.com
+gosca.ea.com
+http://www.ea.com/0
+peach.online.ea.com
+winter15.gosredirector.ea.com
+winter15.gosredirector.scert.ea.com
+winter15.gosredirector.sdev.ea.com
+winter15.gosredirector.stest.ea.com
